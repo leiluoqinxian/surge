@@ -190,7 +190,6 @@
 "^https?:\/\/aikanvod\.miguvideo\.com\/video\/p\/i_adverseInterface\.jsp" - reject
 "^https?:\/\/amap\-aos\-info\-nogw\.amap\.com\/ws\/aos\/alimama\/" - reject
 "^https?:\/\/ap\.dongqiudi\.com\/plat\/v" - reject
-"^https?:\/\/api-access\.[0-9a-zA-Z_-]+\.com\/api\/ad" - reject
 "^https?:\/\/api-ad-product\.huxiu\.com\/Api\/Product\/SDK\/Advert\/Query\/queryAdvertListInfo" - reject
 "^https?:\/\/api-mifit\.huami\.com\/(discovery\/mi\/discovery\/(homepage|sleep|sport(_(summary|training))?|step_detail|training_video)_ad|v1\/app\/startpages\.json)\?" - reject
 "^https?:\/\/api-new\.app\.acfun\.cn\/rest\/app\/flash\/screen\/" - reject
