@@ -1,6 +1,6 @@
 #!name=YoutubeAds
 #!desc=YoutubeAds
-
+#
 [URL Rewrite]
 # ======= 视频广告请求 ======= #
 (^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+?)&ctier=L(&.+?),ctier,(.+) $1$2$3 302
